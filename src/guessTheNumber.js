@@ -1,3 +1,3 @@
 export default function guessTheNumber() {
-  // your code here
+  // this is my super cool code
 }
